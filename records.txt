@@ -1,0 +1,5 @@
+4x4:standard 82736 643842 maciej
+4x4:standard 83272 631733 maciej
+12x12:standard 203056 376647 maciej
+5x5:standard 87464 369555 maciej
+19x24:file.txt 90320 48243 m
